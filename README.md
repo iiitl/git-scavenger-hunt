@@ -21,7 +21,7 @@ With the fate of the world hanging in the balance, each discovery brought the pa
 
 ## The hunt begins here
 
-"QR CODE"
+<img alt="Git Scavenger Hunt Details - QR Code" src="git-scavenger-hunt.png" style="height: 500px; width: 500px;">
 
 ## The end
 
